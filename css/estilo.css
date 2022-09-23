@@ -1,3 +1,8 @@
 body {
     background-color: rgba(137, 43, 226, 0.598);
 }
+
+.btn {
+    background-color: yellow;
+    cursor: pointer;
+}
