@@ -1,8 +1,48 @@
-body {
-    background-color: rgba(137, 43, 226, 0.598);
+/*    SEAMOS EL INDEX HTML       */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
 }
 
-.btn {
-    background-color: yellow;
-    cursor: pointer;
+html {
+    font-size: 62.5%;
+}
+
+/* ------ENCABEZADO-------------- */
+
+header {
+    /* border: 2px dashed rgb(255, 0, 0); */
+    height: 50vh;
+    background-image: url(../img/encabezado-foto.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.head {
+    /* border: 3px dashed cyan; */
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.head_nombre {
+    color: white;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 6rem;
+}
+
+.head_foto {
+    border-radius: 10px;
+    width: 50vw;
+
+    position: relative;
+    top: 80px;
 }
