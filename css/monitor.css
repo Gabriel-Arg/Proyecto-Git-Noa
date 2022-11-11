@@ -1,0 +1,22 @@
+@media (min-width: 1000px) {
+
+    .head {
+        height: 100%;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .head_nombre {
+        font-size: 8rem;
+    }
+
+    .head_foto {
+        width: 18vw;
+    
+        position: relative;
+        top: 5px;
+        left: 20px;
+    }
+
+}

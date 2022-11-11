@@ -26,6 +26,7 @@ header {
 
 .head {
     /* border: 3px dashed cyan; */
+    height: 70%;
 
     display: flex;
     flex-direction: column;
@@ -44,5 +45,5 @@ header {
     width: 50vw;
 
     position: relative;
-    top: 80px;
+    top: 90px;
 }
