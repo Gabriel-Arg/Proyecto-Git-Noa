@@ -19,4 +19,31 @@
         left: 20px;
     }
 
+    /*     SECCION NUMERO 2            */
+
+    .seccion2 {
+        padding: 50px 0px 100px;
+    
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+    }
+
+    #seccion2_card1 {
+        margin-top: 0px;
+    }
+
+    .seccion2_card {
+        /* border: 2px dashed blue; */
+        height: 300px;
+        width: 250px;
+        margin: 0px 20px;
+    }
+
+
+
+
+
+    
+
 }
