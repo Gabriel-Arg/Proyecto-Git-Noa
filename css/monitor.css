@@ -40,6 +40,17 @@
         margin: 0px 20px;
     }
 
+    /* ------SECCION IFRAME------------ */
+
+    .seccion-video {
+        height: 500px;
+    }
+
+    #video1 {
+        width: 670px;
+        height: 380px;
+    }
+
 
 
 
