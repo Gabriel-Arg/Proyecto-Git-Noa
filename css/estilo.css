@@ -145,3 +145,27 @@ header {
     -moz-box-shadow: 4px 6px 12px -1px rgba(0,0,0,0.63);
 }
 
+.seccion-guty {
+    border: 1px dashed red;
+    height: 400px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+
+}
+
+#seccion-guty__titulo {
+    font-size: 40px;
+
+}
+
+
+
+
+
+
+
+
